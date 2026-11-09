@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Slideshow</string>
+
+    <string name="team1">Florida Gators</string>
+    <string name="team2">St. John\'s Red Storm</string>
+    <string name="team3">Texas Tech Red Raiders</string>
+    <string name="team4">Maryland Terrapins</string>
+    <string name="team5">Memphis Tigers</string>
+
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="go">Go</string>
+    <string name="picture_number">Picture number (1-5)</string>
+</resources>
